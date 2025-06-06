@@ -1,0 +1,40 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# IDE / Editor config
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Conda environments & config
+.env
+*.conda
+*.egg-info/
+
+# Output files
+*.csv
+*.json
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+
+# Training artifacts & checkpoints
+checkpoints/
+output/
+runs/
+
+# Kaggle / Google Colab
+kaggle.json
